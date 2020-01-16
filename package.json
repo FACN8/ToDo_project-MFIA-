@@ -1,0 +1,24 @@
+{
+  "name": "ToDo_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dom.js",
+  "scripts": {
+    "test": "jest",
+  "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aysam199/ToDo_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aysam199/ToDo_project/issues"
+  },
+  "homepage": "https://github.com/aysam199/ToDo_project#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
